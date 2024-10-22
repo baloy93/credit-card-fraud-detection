@@ -54,4 +54,4 @@ Integrate machine learning models in Databricks to improve fraud detection accur
 Implement alerting mechanisms when potential fraud is detected.
 Extend the solution to support batch processing alongside real-time processing.
 
-# note: Because I used azure free subscription and having excceded my acess limits while creating another project I do not have access to my resources other than the notebooks and visualations I uploaded
+# note: Because I used azure free subscription and having exceeded my access limits while creating another project I do not have access to my resources other than the notebooks and visualations I uploaded
